@@ -1,4 +1,4 @@
-# Decentralized Voting Application on Ethereum Blockchain
+# Decentralized Voting Application on Local Ethereum Blockchain
 
 ## Setup Instructions
 
